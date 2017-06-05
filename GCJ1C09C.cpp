@@ -79,10 +79,7 @@ int main(int argv, char* args[])
         }
         //cout << dp[k+1][0] << endl;
 
-
-
-
-
+	   
         cout << "Case #"<<z+1<<": "<< dp[k+1][0] << endl << INT_MAX;    
     }
 }
